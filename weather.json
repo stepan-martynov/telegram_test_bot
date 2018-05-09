@@ -1,0 +1,82 @@
+[
+  {
+    "code": "30",
+    "date": "08 May 2018",
+    "day": "Tue",
+    "high": "60",
+    "low": "47",
+    "text": "Partly Cloudy"
+  },
+  {
+    "code": "32",
+    "date": "09 May 2018",
+    "day": "Wed",
+    "high": "56",
+    "low": "42",
+    "text": "Sunny"
+  },
+  {
+    "code": "32",
+    "date": "10 May 2018",
+    "day": "Thu",
+    "high": "61",
+    "low": "42",
+    "text": "Sunny"
+  },
+  {
+    "code": "34",
+    "date": "11 May 2018",
+    "day": "Fri",
+    "high": "65",
+    "low": "46",
+    "text": "Mostly Sunny"
+  },
+  {
+    "code": "34",
+    "date": "12 May 2018",
+    "day": "Sat",
+    "high": "67",
+    "low": "49",
+    "text": "Mostly Sunny"
+  },
+  {
+    "code": "30",
+    "date": "13 May 2018",
+    "day": "Sun",
+    "high": "68",
+    "low": "52",
+    "text": "Partly Cloudy"
+  },
+  {
+    "code": "30",
+    "date": "14 May 2018",
+    "day": "Mon",
+    "high": "68",
+    "low": "54",
+    "text": "Partly Cloudy"
+  },
+  {
+    "code": "30",
+    "date": "15 May 2018",
+    "day": "Tue",
+    "high": "67",
+    "low": "55",
+    "text": "Partly Cloudy"
+  },
+  {
+    "code": "30",
+    "date": "16 May 2018",
+    "day": "Wed",
+    "high": "65",
+    "low": "52",
+    "text": "Partly Cloudy"
+  },
+  {
+    "code": "30",
+    "date": "17 May 2018",
+    "day": "Thu",
+    "high": "60",
+    "low": "50",
+    "text": "Partly Cloudy"
+  }
+]
