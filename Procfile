@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-web: python bot.py
-=======
-
->>>>>>> origin/master
+web: gunicorn python bot.py
